@@ -1,0 +1,238 @@
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  padding: undefinedpx undefinedpx undefinedpx undefinedpx;
+  position: relative;
+  overflow: hidden;
+  min-height: 0px;
+}
+
+.main > .item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.section1__section1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex-grow: 1;
+  min-height: 1024px;
+}
+
+.section1__flexCol {
+  display: flex;
+  flex-direction: column;
+  width: 90.49%;
+  position: relative;
+  flex-grow: 1;
+  min-height: 0px;
+  margin: 32px 5.07% 460px 4.44%;
+}
+
+.section1__flexCol > .item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 4;
+}
+
+.section1__medium_title {
+  font: 700 24px/1.5 "Poppins", Helvetica, Arial, serif;
+  color: #f8f7f9;
+  letter-spacing: 0px;
+  position: relative;
+  flex-grow: 1;
+  min-height: 0px;
+}
+
+.section1__flexCol > .item1 {
+  margin-top: -27px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 0;
+}
+
+.section1__wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 31.47%;
+  position: relative;
+  flex-grow: 1;
+  min-height: 44px;
+  margin: 0px 0% 0px 68.53%;
+}
+
+.section1__flexRow {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  min-height: 0px;
+  margin: 9px 0px 8px;
+}
+
+.section1__highlights {
+  font: 400 18px/1.5 "Poppins", Helvetica, Arial, serif;
+  color: #f8f7f9;
+  letter-spacing: 0px;
+  position: relative;
+  flex: 0 0 auto;
+  min-width: 54px;
+  min-height: 0px;
+}
+
+.section1__flexRow > .spacer {
+  flex: 0 1 48px;
+}
+
+.section1__highlights1 {
+  font: 400 18px/1.5 "Poppins", Helvetica, Arial, serif;
+  color: #f8f7f9;
+  letter-spacing: 0px;
+  position: relative;
+  flex: 0 0 auto;
+  min-width: 72px;
+  min-height: 0px;
+}
+
+.section1__highlights11 {
+  font: 800 18px/1.5 "Poppins", Helvetica, Arial, serif;
+  color: #f8f7f9;
+  letter-spacing: 0px;
+  position: relative;
+  flex: 0 0 auto;
+  min-width: 86px;
+  min-height: 0px;
+}
+
+.section1__flexCol > .item2 {
+  margin-top: 71px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 1;
+}
+
+.section1__wrapper1 {
+  display: flex;
+  flex-direction: column;
+  width: 37.45%;
+  position: relative;
+  flex-grow: 1;
+  min-height: 108px;
+  margin: 44px 60.78% 0px 1.77%;
+}
+
+.section1__hero_title {
+  font: 700 96px/1 "Poppins", Helvetica, Arial, serif;
+  color: #f8f7f9;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+  bottom: 12px;
+  min-height: 0px;
+  left: 0px;
+  right: -130px;
+}
+
+.section1__flexCol > .item3 {
+  margin-top: -28px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 2;
+}
+
+.section1__wrapper2 {
+  display: flex;
+  flex-direction: column;
+  width: 53.8%;
+  position: relative;
+  flex-grow: 1;
+  min-height: 98px;
+  margin: 16px 44.28% 0px 1.92%;
+}
+
+.section1__wrapper21 {
+  font: 24px/1.5 "Poppins", Helvetica, Arial, serif;
+  color: rgba(248, 247, 249, 0.498);
+  letter-spacing: 0px;
+  position: absolute;
+  top: 29px;
+  bottom: -621px;
+  min-height: 0px;
+  left: 10px;
+  right: -588px;
+}
+
+.section1__wrapper21_span0 {
+  font: 1em/1.5 "Poppins", Helvetica, Arial, serif;
+  color: rgba(248, 247, 249, 0.498);
+  font-style: normal;
+  letter-spacing: 0px;
+}
+
+.section1__wrapper21_span1 {
+  font: 600 1em/1.5 "Poppins", Helvetica, Arial, serif;
+  color: rgba(248, 247, 249, 0.498);
+  font-style: normal;
+  letter-spacing: 0px;
+}
+
+.section1__wrapper21_span2 {
+  font: 1em/1.5 "Poppins", Helvetica, Arial, serif;
+  color: rgba(248, 247, 249, 0.498);
+  font-style: normal;
+  letter-spacing: 0px;
+}
+
+.section1__flexCol > .item4 {
+  margin-top: -25px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 6;
+}
+
+.section1__image2 {
+  width: 12.89%;
+  height: 161px;
+  vertical-align: top;
+  -o-object-fit: fill;
+  object-fit: fill;
+  -o-object-position: center center;
+  object-position: center center;
+  position: relative;
+  margin: 0px 69.84% 0px 17.27%;
+}
+
+.section1__flexCol > .item5 {
+  margin-top: -152px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 5;
+}
+
+.section1__image1 {
+  width: 12.74%;
+  height: 148px;
+  vertical-align: top;
+  -o-object-fit: fill;
+  object-fit: fill;
+  -o-object-position: center center;
+  object-position: center center;
+  position: relative;
+  margin: 0px 84.73% 0px 2.53%;
+}
